@@ -139,7 +139,6 @@ https://github.com/sugiyama404/practice_infra_arch
 
 - GitHub: https://github.com/sugiyama404  
 - Qiita: https://qiita.com/sugiyama404  
-- LinkedIn: (optional)
 
 ---
 
