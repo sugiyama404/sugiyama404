@@ -55,7 +55,7 @@ Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL
 
 ### Framework & Infrastructure
 - Backend: FastAPI / Django / Spring Framework / Echo / CakePHP
-- Frontend: Next.js / Vue.js / BootStrap / UIkit / Tailwind CSS
+- Frontend: Next.js / Vue.js / BootStrap / UIkit / Tailwind CSS / jQuery
 - AWS: Lambda / API Gateway / SQS / ECS / EC2 / EKS / WAF / CodeBuild / CodePipeline / CodeDeploy / RDS / S3 / ELB / VPC / IAM
 - Container & IaC: Docker / docker-compose / Terraform / Kubernetes / Minikube / GitHub Actions
 - Tooling: Poetry / Ruff / Snyk / VSCode / Git / GitHub / Composer / Maven / A5M2
