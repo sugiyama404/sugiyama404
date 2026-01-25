@@ -50,8 +50,6 @@ AWSを中心に、
 
 ## 🧑‍💼 Professional Tech Stack / 実務で使用している技術
 
-（※ 表記は日本の職務経歴書スタイルを維持）
-
 ### Languages
 Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL
 
