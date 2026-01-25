@@ -79,18 +79,18 @@ These repositories represent my **design thinking and practical verification**:
 
 ### Data & AI
 - Databases: MySQL / MariaDB / DynamoDB
-- LLM / RAG: Azure OpenAI (GPT-4o / GPT-4) / Gemini for Enterprise / LangChain / ChromaDB
+- LLM / RAG: Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB
 - OCR: Azure OCR / ndlocr (CUDA/GPU)
 
-### Architecture & Practices
-- Serverless architecture (Lambda / API Gateway) and event-driven design (SQS)
-- Microservices & Kubernetes operations (Kubernetes / EKS, minikube)
-- CI/CD pipelines (CodePipeline / CodeBuild / CodeDeploy) and infrastructure as code (Terraform)
-- Observability-aware design (monitoring design, log collection/analysis)
+- Serverless architecture (AWS Lambda, API Gateway) and event-driven design (Amazon SQS)
+- Microservices architecture and Kubernetes operations (EKS, Minikube)
+- CI/CD pipelines (CodePipeline, CodeBuild, CodeDeploy) and infrastructure as code (Terraform)
+- Observability-driven design (monitoring/alerting, log collection and analysis)
 - Resilience engineering (error handling, retry strategies)
 - Engineering excellence (design guidelines, code reviews, testing, standardization)
-- Security & governance (Snyk, data governance controls)
-- Mobile optimization（iPhone / Responsive UI）
+- Security and governance (Snyk, data governance controls)
+- Mobile optimization (iPhone compatibility, responsive UI)
+- Retrieval-augmented generation (RAG)
 
 ---
 
