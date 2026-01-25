@@ -43,31 +43,30 @@ AWSを中心に、
 
 ### Languages
 
-
 Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL（HashiCorp Configuration Language）
 
 ### FrameWork & Infrastructure
-Backend: FastAPI / Django / Spring Framework / Echo / CakePHP
-Frontend: Next.js / Vue.js / BootStrap / UIkit / Tailwind CSS
-AWS: Lambda / API Gateway / SQS / ECS / EC2 / EKS / WAF / CodeBuild / CodePipeline / CodeDeploy / RDS / S3 / ELB / VPC / IAM
-Container & IaC: Docker / docker-compose / Terraform / Kubernetes / Minikube / GitHub Actions
-Tooling: Poetry / Ruff / Snyk / VSCode / Git / GitHub / Composer / Maven / A5M2
++ Backend: FastAPI / Django / Spring Framework / Echo / CakePHP
++ Frontend: Next.js / Vue.js / BootStrap / UIkit / Tailwind CSS
++ AWS: Lambda / API Gateway / SQS / ECS / EC2 / EKS / WAF / CodeBuild / CodePipeline / CodeDeploy / RDS / S3 / ELB / VPC / IAM
++ Container & IaC: Docker / docker-compose / Terraform / Kubernetes / Minikube / GitHub Actions
++ Tooling: Poetry / Ruff / Snyk / VSCode / Git / GitHub / Composer / Maven / A5M2
 
 ### Data & AI
-Databases: MySQL / MariaDB / DynamoDB / OracleDB
-LLM / RAG: Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB
-OCR: Azure OCR / ndlocr (CUDA/GPU)
++ Databases: MySQL / MariaDB / DynamoDB / OracleDB
++ LLM / RAG: Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB
++ OCR: Azure OCR / ndlocr (CUDA/GPU)
 
 ### Architecture & Practices
-Serverless architecture (AWS Lambda, API Gateway) and event-driven design (Amazon SQS)
-Microservices architecture and Kubernetes operations (EKS, Minikube)
-CI/CD pipelines (CodePipeline, CodeBuild, CodeDeploy) and infrastructure as code (Terraform)
-Observability-driven design (monitoring/alerting, log collection and analysis)
-Resilience engineering (error handling, retry strategies)
-Engineering excellence (design guidelines, code reviews, testing, standardization)
-Security and governance (Snyk, data governance controls)
-Mobile optimization (iPhone compatibility, responsive UI)
-Retrieval-augmented generation (RAG)
++ Serverless architecture (AWS Lambda, API Gateway) and event-driven design (Amazon SQS)
++ Microservices architecture and Kubernetes operations (EKS, Minikube)
++ CI/CD pipelines (CodePipeline, CodeBuild, CodeDeploy) and infrastructure as code (Terraform)
++ Observability-driven design (monitoring/alerting, log collection and analysis)
++ Resilience engineering (error handling, retry strategies)
++ Engineering excellence (design guidelines, code reviews, testing, standardization)
++ Security and governance (Snyk, data governance controls)
++ Mobile optimization (iPhone compatibility, responsive UI)
++ Retrieval-augmented generation (RAG)
 
 ---
 
