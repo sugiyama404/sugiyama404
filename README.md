@@ -1,9 +1,7 @@
-# Hi there 👋 I'm Sugiyama
+ **Cloud × Architecture × AI**  
+_Backend / Cloud Engineer who can explain design decisions_
 
 <div align="center">
-
-**Cloud / Distributed System / MLOps Oriented Engineer**  
-*Designing scalable, resilient, and cost-aware systems*
 
 [![GitHub followers](https://img.shields.io/github/followers/sugiyama404?style=social)](https://github.com/sugiyama404)
 [![GitHub stars](https://img.shields.io/github/stars/sugiyama404?style=social)](https://github.com/sugiyama404)
@@ -12,60 +10,40 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Who I Am / 自己紹介
 
-I'm a software engineer with a strong focus on **system design and cloud architecture**.
+I am a backend / cloud engineer focusing on **cloud architecture, distributed systems, and AI platforms**.  
+My strength is not only building systems, but also **explaining why the architecture is designed that way**.
 
-Rather than only implementing features, I focus on:
-- defining **clear assumptions and requirements**
-- making **explicit architectural trade-offs**
-- validating designs through **implementation and benchmarking**
+AWSを中心に、  
+**分散システム・検索・MLOps・AI基盤**を題材に  
+「要件 → 制約 → トレードオフ」を整理し、  
+**設計判断を言語化できるエンジニア**です。
 
-I have hands-on experience designing and verifying systems involving:
-**distributed systems, caching strategies, ID generation, MLOps pipelines, and high-traffic architectures**.
-
-Currently, I'm seeking roles where I can contribute as a  
-**Cloud Engineer / Backend Engineer / System Design-oriented Engineer**.
+- 実務：クラウドアーキテクチャ設計 / インフラ構築 / 技術選定 / 関係部署との調整
+- 個人：設計検証・性能比較・アーキテクチャ分析を GitHub / Qiita で継続的にアウトプット
 
 ---
 
-## 🧠 My Engineering Focus
+## 🧭 Engineering Focus / 得意領域
 
-- **System Design & Architecture**
-  - Scalability, availability, cost optimization
-  - Trade-offs between simplicity and resilience
-
-- **Distributed Systems**
-  - ID generation strategies (Snowflake, Ticket Server)
-  - Cache layers, eventual consistency, failure handling
-
-- **Cloud & MLOps**
-  - AWS-centric architecture (multi-cloud aware)
-  - ML training, evaluation, deployment pipelines
+- **Cloud Architecture**
+  - Serverless / Event-driven / Microservices
+  - 可用性・コスト・運用性を考慮した設計
+- **Backend & Distributed Systems**
+  - API設計、非同期処理、分散トランザクション
+  - キャッシュ戦略、ID生成、検索最適化
+- **AI / MLOps**
+  - RAG構成、OCR、強化学習基盤
+  - 学習〜推論〜運用までを見据えた設計
 
 ---
 
-## 🌟 Featured Work (Start Here)
-
-These repositories represent my **design thinking and practical verification**:
-
-- 🔹 **practice_infra_arch**  
-  A collection of real-world inspired infrastructure and system design exercises  
-  (Cloud architecture, caching, distributed ID, MLOps)
-
-- 🔹 **Search Autocomplete System**  
-  Low-latency (<200ms P95), cost-constrained system design with multi-layer caching
-
-- 🔹 **Distributed ID Generation Design**  
-  Design and implementation comparison of ID generation strategies in distributed systems
-
-👉 See pinned repositories below for detailed designs and trade-off discussions.
-
----
-
-## 💻 Tech Stack (Practical Use)
+## 🧑‍💼 Professional Experience / 実務で使用している技術
 
 ### Languages
+
+
 Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL（HashiCorp Configuration Language）
 
 ### FrameWork & Infrastructure
@@ -93,98 +71,85 @@ Retrieval-augmented generation (RAG)
 
 ---
 
+## 📚 Architecture & Research / 学習・設計検証（GitHub / Qiita）
 
-## 📘 Learning & Practice
+I actively study architecture topics that are often hard to experience in real projects,  
+by **building small systems, benchmarking them, and analyzing trade-offs**.
 
-In addition to my professional experience, I continuously study and practice cloud architecture,
-data engineering, and machine learning by building hands-on projects from scratch.
-Below are representative learning projects that focus on **design, implementation, and validation**.
+実務では扱いにくいテーマを、  
+**小さく作る → 測る → 比較する** ことで理解しています。
 
-### 🏗 Infrastructure & Architecture Design
-- Designed cloud-native architectures with **AWS**, focusing on scalability, fault tolerance, and cost optimization.
-- Practiced **Infrastructure as Code (IaC)** using **Terraform** for reproducible environments.
-- Implemented service orchestration using **AWS Step Functions**, **Lambda**, **ECS**, and **EventBridge**.
-- Designed IAM policies and execution roles with least-privilege principles.
+### Topics
+- 🔗 **URL Shortening Service**
+  - ID generation strategies and scalability
+- 🆔 **Distributed ID Generation**
+  - Snowflake / Ticket Server implementations and comparison
+- 🗄️ **PostgreSQL Performance**
+  - UUIDv7, AIO, performance benchmarking
+- 🔍 **Search & Autocomplete Systems**
+  - Multi-layer cache design and P95 latency optimization
+- 💬 **Real-time Chat Systems**
+  - WebSocket scaling and architecture design
+- 🔁 **Saga Pattern**
+  - Reliability and performance of distributed transactions
+- 🤖 **ML Trading System**
+  - Reinforcement learning + AWS + MLOps pipeline design
 
-Related repository:
-- practice_infra_arch
-- practice_step_function
+### Representative Repository
+👉 **Infrastructure / Architecture Practice**  
+https://github.com/sugiyama404/practice_infra_arch
 
----
-
-### 📊 Data Engineering & Analytics Platform
-- Built a data analysis platform combining **batch and streaming pipelines**.
-- Implemented real-time ingestion using **Apache Kafka** and stream processing with **Spark Streaming**.
-- Designed batch ETL workflows using **Embulk** and **Digdag**.
-- Created visualization dashboards using **Metabase**.
-- Designed data storage strategies using **MySQL** and **PostgreSQL** based on workload characteristics.
-
-Related repository:
-- practice_data_analysis_platform
-
----
-
-### 🤖 Machine Learning & Deep Learning
-- Implemented **deep reinforcement learning** models for algorithmic trading and order execution simulation.
-- Practiced **time-series forecasting** using CNN + LSTM architectures.
-- Designed model evaluation workflows for financial time-series data.
-
-Related repositories:
-- LimitOrder
-- forecast_sp500
+- Availability / Cost / Resilience oriented architectures
+- AWS / Azure / GCP comparison
 
 ---
 
-### 🧠 Natural Language Processing (NLP)
-- Built a **BERT-based question answering / chatbot system**.
-- Studied Transformer architectures, pre-training, and fine-tuning strategies.
-- Implemented inference APIs using **Flask** and containerized applications with **Docker**.
-- Executed experiments using **Google Colab** for rapid prototyping.
+## ✍️ Technical Writing (Qiita)
 
-Related repository:
-- chat_bot_bert
+📘 Architecture-focused technical articles (Japanese)
 
----
+- クラウド設計・アーキテクチャ設計の考え方
+- RAG / AI基盤構成
+- 分散システム・キャッシュ戦略
+- 実務と理論のギャップ整理
 
-### ☁ Cloud-Native Development Practices
-- Designed container-based applications using **Docker** and **ECS**.
-- Practiced CI/CD-oriented infrastructure design.
-- Emphasized observability, automation, and maintainability in system design.
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sugiyama404&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sugiyama404&layout=compact&theme=radical&hide_border=true)
-
-</div>
+👉 https://qiita.com/sugiyama404
 
 ---
 
-## 🎯 What I'm Looking For
+## 🏆 Strengths / 強み
 
-I'm interested in roles such as:
-- Cloud Engineer
-- Backend Engineer (System Design focused)
-- Platform / Infrastructure Engineer
-- MLOps / ML Platform Engineer
+- **Architecture Thinking**  
+  Requirements → Constraints → Trade-offs
+- **Explainability**  
+  Design decisions that can be explained and discussed
+- **Resilience & Operability**  
+  Failure-aware and operation-friendly design
+- **Learning by Building**  
+  Validate ideas through implementation and benchmarking
 
-Especially environments where **design decisions matter**, not just implementation speed.
+---
+
+## 🎯 What I’m Looking For / 興味のあるロール
+
+- Backend Engineer  
+- Cloud / Platform Engineer  
+- SRE / MLOps Engineer  
+- Roles involving architecture design and technical decision-making
 
 ---
 
 ## 📫 Contact
 
-- 💼 Open to job opportunities and technical discussions
-- 🔗 GitHub: https://github.com/sugiyama404
+- GitHub: https://github.com/sugiyama404  
+- Qiita: https://qiita.com/sugiyama404  
 
 ---
 
 <div align="center">
 
-💡 *"Good architecture is about making trade-offs explicit."*
+💡 *“Good architecture is not about being clever.  
+It’s about being explainable.”*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sugiyama404&color=brightgreen)
 
