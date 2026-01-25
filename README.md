@@ -109,7 +109,6 @@ Especially environments where **design decisions matter**, not just implementati
 
 - 💼 Open to job opportunities and technical discussions
 - 🔗 GitHub: https://github.com/sugiyama404
-- 🔗 LinkedIn: https://www.linkedin.com/in/sugiyama404
 
 ---
 
