@@ -23,7 +23,6 @@ AWSを中心に、
 
 - 実務：クラウドアーキテクチャ設計 / インフラ構築 / 技術選定 / 運用設計 / 関係部署との調整
 - 個人：設計検証・性能比較・アーキテクチャ分析を GitHub / Qiita で継続的にアウトプット
-
 ---
 
 ## 🧭 Engineering Focus / 得意領域
@@ -71,6 +70,30 @@ Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL（
 + Mobile optimization (iPhone compatibility, responsive UI)
 + Retrieval-augmented generation (RAG)
 
+---
+
+## 🔍 Design & Code Review Experience / 設計・レビュー経験
+
+- **フロントエンドを主軸**とした設計書および Pull Request のレビュアーを担当
+- 一日平均 **5本以上** の設計書・PRをレビュー
+- FE実装レビューとあわせて、**バックエンド設計書のレビューも担当**し、
+  FE/BE 間の設計齟齬や責務のズレを事前に検出・修正
+
+### Frontend Review Focus
+- 変数名・コンポーネント名の妥当性（意図が読み取れるか）
+- 不要・冗長なコードの混入防止
+- React / TypeScript の **ベストプラクティス遵守**
+- 非推奨API・記法（例: `React.FC` など）の使用有無
+- 将来的な保守性・拡張性を考慮した構成になっているか
+
+### Design Document Review
+- 設計書が **そのまま実装に落とし込める粒度・明確さ**を持っているか
+- API I/F・データ構造・責務分担が明確か
+- フロントエンド設計とバックエンド設計の整合性
+- 実装時に解釈ブレが起きそうな箇所の指摘・修正提案
+
+- 複数チーム・複数案件を横断し、
+  **設計と実装をつなぐレビュー観点の標準化**に貢献
 ---
 
 ## 📚 Architecture & Research / 学習・設計検証（GitHub / Qiita）
