@@ -93,6 +93,65 @@ Retrieval-augmented generation (RAG)
 
 ---
 
+
+## 📘 Learning & Practice
+
+In addition to my professional experience, I continuously study and practice cloud architecture,
+data engineering, and machine learning by building hands-on projects from scratch.
+Below are representative learning projects that focus on **design, implementation, and validation**.
+
+### 🏗 Infrastructure & Architecture Design
+- Designed cloud-native architectures with **AWS**, focusing on scalability, fault tolerance, and cost optimization.
+- Practiced **Infrastructure as Code (IaC)** using **Terraform** for reproducible environments.
+- Implemented service orchestration using **AWS Step Functions**, **Lambda**, **ECS**, and **EventBridge**.
+- Designed IAM policies and execution roles with least-privilege principles.
+
+Related repository:
+- practice_infra_arch
+- practice_step_function
+
+---
+
+### 📊 Data Engineering & Analytics Platform
+- Built a data analysis platform combining **batch and streaming pipelines**.
+- Implemented real-time ingestion using **Apache Kafka** and stream processing with **Spark Streaming**.
+- Designed batch ETL workflows using **Embulk** and **Digdag**.
+- Created visualization dashboards using **Metabase**.
+- Designed data storage strategies using **MySQL** and **PostgreSQL** based on workload characteristics.
+
+Related repository:
+- practice_data_analysis_platform
+
+---
+
+### 🤖 Machine Learning & Deep Learning
+- Implemented **deep reinforcement learning** models for algorithmic trading and order execution simulation.
+- Practiced **time-series forecasting** using CNN + LSTM architectures.
+- Designed model evaluation workflows for financial time-series data.
+
+Related repositories:
+- LimitOrder
+- forecast_sp500
+
+---
+
+### 🧠 Natural Language Processing (NLP)
+- Built a **BERT-based question answering / chatbot system**.
+- Studied Transformer architectures, pre-training, and fine-tuning strategies.
+- Implemented inference APIs using **Flask** and containerized applications with **Docker**.
+- Executed experiments using **Google Colab** for rapid prototyping.
+
+Related repository:
+- chat_bot_bert
+
+---
+
+### ☁ Cloud-Native Development Practices
+- Designed container-based applications using **Docker** and **ECS**.
+- Practiced CI/CD-oriented infrastructure design.
+- Emphasized observability, automation, and maintainability in system design.
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
