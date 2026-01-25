@@ -125,7 +125,8 @@ https://github.com/sugiyama404/practice_infra_arch
   - AWS設計・IaC・CI/CD・運用設計
 - **SRE / MLOps Engineer**
   - 可観測性・レジリエンス・学習〜運用設計
-
+- **Staff Engineer**
+- 複数チーム・複数プロダクトを横断し、将来拡張・運用・組織スケールを前提とした技術的意思決定を行い、設計方針を言語化して実装まで責任を持てる
 ---
 
 ## ✍️ Technical Writing
@@ -143,6 +144,7 @@ https://github.com/sugiyama404/practice_infra_arch
 - Full-stack Engineer
 - Cloud / Platform Engineer
 - SRE / MLOps Engineer
+- Staff Engineer
 - Architecture design–oriented roles
 
 ---
