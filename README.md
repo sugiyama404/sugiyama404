@@ -1,4 +1,5 @@
- **Cloud × Architecture × AI**  
+# Sugiyama404 👋  
+**Cloud × Architecture × AI**  
 _Backend / Cloud Engineer who can explain design decisions_
 
 <div align="center">
@@ -13,14 +14,14 @@ _Backend / Cloud Engineer who can explain design decisions_
 ## 🚀 Who I Am / 自己紹介
 
 I am a backend / cloud engineer focusing on **cloud architecture, distributed systems, and AI platforms**.  
-My strength is not only building systems, but also **explaining why the architecture is designed that way**.
+My strength is not only building systems, but also **explaining why the architecture is designed that way — including trade-offs, risks, and operability**.
 
 AWSを中心に、  
 **分散システム・検索・MLOps・AI基盤**を題材に  
-「要件 → 制約 → トレードオフ」を整理し、  
-**設計判断を言語化できるエンジニア**です。
+「要件 → 制約 → トレードオフ → 運用」を整理し、  
+**設計判断を言語化し、関係者と合意形成できるエンジニア**です。
 
-- 実務：クラウドアーキテクチャ設計 / インフラ構築 / 技術選定 / 関係部署との調整
+- 実務：クラウドアーキテクチャ設計 / インフラ構築 / 技術選定 / 運用設計 / 関係部署との調整
 - 個人：設計検証・性能比較・アーキテクチャ分析を GitHub / Qiita で継続的にアウトプット
 
 ---
@@ -36,13 +37,15 @@ AWSを中心に、
 - **AI / MLOps**
   - RAG構成、OCR、強化学習基盤
   - 学習〜推論〜運用までを見据えた設計
+- **Full-stack Perspective**
+  - API設計とフロントエンド要件の整合
+  - UX・レスポンス性能・モバイル最適化を考慮したバックエンド設計
 
 ---
 
 ## 🧑‍💼 Professional Experience / 実務で使用している技術
 
 ### Languages
-
 Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL（HashiCorp Configuration Language）
 
 ### FrameWork & Infrastructure
@@ -94,12 +97,13 @@ by **building small systems, benchmarking them, and analyzing trade-offs**.
 - 🤖 **ML Trading System**
   - Reinforcement learning + AWS + MLOps pipeline design
 
-### Representative Repository
-👉 **Infrastructure / Architecture Practice**  
+### ⭐ Main Portfolio Repository
+👉 **Infrastructure / Architecture Practice（転職用メインポートフォリオ）**  
 https://github.com/sugiyama404/practice_infra_arch
 
 - Availability / Cost / Resilience oriented architectures
 - AWS / Azure / GCP comparison
+- Design assumptions, trade-offs, and failure scenarios documented
 
 ---
 
@@ -119,19 +123,22 @@ https://github.com/sugiyama404/practice_infra_arch
 ## 🏆 Strengths / 強み
 
 - **Architecture Thinking**  
-  Requirements → Constraints → Trade-offs
+  Requirements → Constraints → Trade-offs → Operability
 - **Explainability**  
-  Design decisions that can be explained and discussed
+  Design decisions that can be explained, reviewed, and agreed upon
 - **Resilience & Operability**  
-  Failure-aware and operation-friendly design
+  Failure-aware, production-ready design
 - **Learning by Building**  
   Validate ideas through implementation and benchmarking
+- **Full-stack Awareness**  
+  Backend design that respects frontend UX and performance
 
 ---
 
 ## 🎯 What I’m Looking For / 興味のあるロール
 
 - Backend Engineer  
+- **Full-stack Engineer（バックエンド主軸）**  
 - Cloud / Platform Engineer  
 - SRE / MLOps Engineer  
 - Roles involving architecture design and technical decision-making
