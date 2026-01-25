@@ -61,7 +61,7 @@ Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL
 - Tooling: Poetry / Ruff / Snyk / VSCode / Git / GitHub / Composer / Maven / A5M2
 
 ### Data & AI
-- Databases: MySQL / MariaDB / DynamoDB / OracleDB
+- Databases: MySQL / MariaDB / DynamoDB / OracleDB / ChromaDB / SQLite3
 - LLM / RAG: Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB
 - OCR: Azure OCR / ndlocr（CUDA/GPU）
 
