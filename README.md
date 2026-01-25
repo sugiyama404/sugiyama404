@@ -67,6 +67,16 @@ Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL
 - LLM / RAG: Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB
 - OCR: Azure OCR / ndlocr（CUDA/GPU）
 
+### Architecture & Practices
++ Serverless architecture (AWS Lambda, API Gateway) and event-driven design (Amazon SQS)
++ Microservices architecture and Kubernetes operations (EKS, Minikube)
++ CI/CD pipelines (CodePipeline, CodeBuild, CodeDeploy) and infrastructure as code (Terraform)
++ Observability-driven design (monitoring/alerting, log collection and analysis)
++ Resilience engineering (error handling, retry strategies)
++ Engineering excellence (design guidelines, code reviews, testing, standardization)
++ Security and governance (Snyk, data governance controls)
++ Mobile optimization (iPhone compatibility, responsive UI)
++ Retrieval-augmented generation (RAG)
 ---
 
 ## 🔍 Design & Code Review Experience / 設計・レビュー経験
