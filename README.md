@@ -90,6 +90,7 @@ These repositories represent my **design thinking and practical verification**:
 - Resilience engineering (error handling, retry strategies)
 - Engineering excellence (design guidelines, code reviews, testing, standardization)
 - Security & governance (Snyk, data governance controls)
+- Mobile optimization（iPhone / Responsive UI）
 
 ---
 
