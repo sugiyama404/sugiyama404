@@ -67,18 +67,29 @@ These repositories represent my **design thinking and practical verification**:
 
 ### Languages
 - Python / TypeScript / JavaScript
+- Go / Java / PHP
 - SQL
 
 ### Backend & Infrastructure
-- AWS (ECS, RDS, ElastiCache, CloudFront, ALB, IAM)
-- Docker / Docker Compose
-- Redis / PostgreSQL / OpenSearch
+- Backend: FastAPI / Django / Spring Framework / echo / CakePHP
+- Frontend: Next.js / Vue.js
+- AWS: Lambda / API Gateway / SQS / ECS / EC2 / EKS / WAF / CodeBuild / CodePipeline / CodeDeploy / RDS / S3 / ELB
+- Container & IaC: Docker / Terraform
+- Tooling: Poetry / Ruff / Snyk
+
+### Data & AI
+- Databases: MySQL / MariaDB / Redshift / DynamoDB
+- LLM / RAG: Azure OpenAI (GPT-4o / GPT-4) / Gemini for Enterprise / LangChain / ChromaDB
+- OCR: Azure OCR / ndlocr (CUDA/GPU)
 
 ### Architecture & Practices
-- Infrastructure Design Documentation
-- Benchmark-driven validation
-- MLOps pipelines
-- Observability-aware design
+- Serverless architecture (Lambda / API Gateway) and event-driven design (SQS)
+- Microservices & Kubernetes operations (Kubernetes / EKS, minikube)
+- CI/CD pipelines (CodePipeline / CodeBuild / CodeDeploy) and infrastructure as code (Terraform)
+- Observability-aware design (monitoring design, log collection/analysis)
+- Resilience engineering (error handling, retry strategies)
+- Engineering excellence (design guidelines, code reviews, testing, standardization)
+- Security & governance (Snyk, data governance controls)
 
 ---
 
