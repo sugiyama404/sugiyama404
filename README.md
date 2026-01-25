@@ -78,7 +78,7 @@ These repositories represent my **design thinking and practical verification**:
 - Tooling: Poetry / Ruff / Snyk
 
 ### Data & AI
-- Databases: MySQL / MariaDB / Redshift / DynamoDB
+- Databases: MySQL / MariaDB / DynamoDB
 - LLM / RAG: Azure OpenAI (GPT-4o / GPT-4) / Gemini for Enterprise / LangChain / ChromaDB
 - OCR: Azure OCR / ndlocr (CUDA/GPU)
 
