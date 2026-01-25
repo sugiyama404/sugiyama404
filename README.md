@@ -80,7 +80,7 @@ Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL
 ## 🔍 Design & Code Review Experience / 設計・レビュー経験
 
 - **フロントエンド主軸の設計書・PRレビュアー**を担当
-- 一日平均 **5本以上** の設計書・Pull Requestをレビュー
+- 一日平均 **3本以上** の設計書・Pull Requestをレビュー
 - FE実装レビューに加え、**バックエンド設計書もレビュー**し、
   FE/BE 間の設計齟齬を事前に検出・修正
 
