@@ -1,84 +1,121 @@
-# Hi there! 👋 I'm Sugiyama
+# Hi there 👋 I'm Sugiyama
 
 <div align="center">
-  
+
+**Cloud / Distributed System / MLOps Oriented Engineer**  
+*Designing scalable, resilient, and cost-aware systems*
+
 [![GitHub followers](https://img.shields.io/github/followers/sugiyama404?style=social)](https://github.com/sugiyama404)
 [![GitHub stars](https://img.shields.io/github/stars/sugiyama404?style=social)](https://github.com/sugiyama404)
 
 </div>
 
+---
+
 ## 🚀 About Me
 
-I'm a passionate software developer with a focus on building reliable and scalable applications. I'm currently seeking new opportunities to contribute to innovative projects and grow my technical expertise.
+I'm a software engineer with a strong focus on **system design and cloud architecture**.
 
-- 🔭 Currently working on various development projects
-- 🌱 Continuously learning new technologies and best practices
-- 💼 Looking for new career opportunities in software development
-- 📫 Feel free to reach out for collaboration or opportunities
+Rather than only implementing features, I focus on:
+- defining **clear assumptions and requirements**
+- making **explicit architectural trade-offs**
+- validating designs through **implementation and benchmarking**
 
-## 💻 Tech Stack
+I have hands-on experience designing and verifying systems involving:
+**distributed systems, caching strategies, ID generation, MLOps pipelines, and high-traffic architectures**.
+
+Currently, I'm seeking roles where I can contribute as a  
+**Cloud Engineer / Backend Engineer / System Design-oriented Engineer**.
+
+---
+
+## 🧠 My Engineering Focus
+
+- **System Design & Architecture**
+  - Scalability, availability, cost optimization
+  - Trade-offs between simplicity and resilience
+
+- **Distributed Systems**
+  - ID generation strategies (Snowflake, Ticket Server)
+  - Cache layers, eventual consistency, failure handling
+
+- **Cloud & MLOps**
+  - AWS-centric architecture (multi-cloud aware)
+  - ML training, evaluation, deployment pipelines
+
+---
+
+## 🌟 Featured Work (Start Here)
+
+These repositories represent my **design thinking and practical verification**:
+
+- 🔹 **practice_infra_arch**  
+  A collection of real-world inspired infrastructure and system design exercises  
+  (Cloud architecture, caching, distributed ID, MLOps)
+
+- 🔹 **Search Autocomplete System**  
+  Low-latency (<200ms P95), cost-constrained system design with multi-layer caching
+
+- 🔹 **Distributed ID Generation Design**  
+  Design and implementation comparison of ID generation strategies in distributed systems
+
+👉 See pinned repositories below for detailed designs and trade-off discussions.
+
+---
+
+## 💻 Tech Stack (Practical Use)
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AL](https://img.shields.io/badge/-AL-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+- Python / TypeScript / JavaScript
+- SQL
 
-### Frameworks & Technologies
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Dynamics 365](https://img.shields.io/badge/-Dynamics%20365-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Business Central](https://img.shields.io/badge/-Business%20Central-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+### Backend & Infrastructure
+- AWS (ECS, RDS, ElastiCache, CloudFront, ALB, IAM)
+- Docker / Docker Compose
+- Redis / PostgreSQL / OpenSearch
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### Architecture & Practices
+- Infrastructure Design Documentation
+- Benchmark-driven validation
+- MLOps pipelines
+- Observability-aware design
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sugiyama404&show_icons=true&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sugiyama404&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sugiyama404&theme=radical&hide_border=true)
 
 </div>
 
-## 🏆 Skills & Strengths
+---
 
-- **Problem Solving**: Strong analytical and debugging skills
-- **Collaboration**: Experience working in team environments
-- **Learning Agility**: Quick to adapt to new technologies and frameworks
-- **Code Quality**: Focus on writing clean, maintainable code
-- **Business Applications**: Experience with ERP systems and business logic
+## 🎯 What I'm Looking For
 
-## 🌟 Featured Projects
+I'm interested in roles such as:
+- Cloud Engineer
+- Backend Engineer (System Design focused)
+- Platform / Infrastructure Engineer
+- MLOps / ML Platform Engineer
 
-Check out my pinned repositories below to see some of my work!
+Especially environments where **design decisions matter**, not just implementation speed.
 
-## 📫 How to Reach Me
+---
 
-- 💼 Open to job opportunities and collaboration
-- 📧 Contact me through GitHub
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sugiyama404) <!-- Update with your actual LinkedIn -->
+## 📫 Contact
 
-## 🎯 Currently Looking For
-
-I'm actively seeking opportunities in:
-- Software Development
-- Full Stack Development
-- ERP/Business Applications Development
-- Web Development
+- 💼 Open to job opportunities and technical discussions
+- 🔗 GitHub: https://github.com/sugiyama404
+- 🔗 LinkedIn: https://www.linkedin.com/in/sugiyama404
 
 ---
 
 <div align="center">
-  
-💡 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+💡 *"Good architecture is about making trade-offs explicit."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sugiyama404&color=brightgreen)
 
