@@ -1,5 +1,6 @@
-# Cloud × Architecture × AI  
-Senior-level Backend / Cloud Engineer  
+# Cloud × Architecture × AI
+
+Senior-level Backend / Cloud Engineer
 — Design-driven, review-oriented, and explainable —
 
 <div align="center">
@@ -13,11 +14,11 @@ Senior-level Backend / Cloud Engineer
 
 ## 🚀 Who I Am / 自己紹介
 
-I am a **backend / cloud engineer at senior level**,  
+I am a **backend / cloud engineer at senior level**,
 focusing on **cloud architecture, distributed systems, and AI platforms**.
 
-My strength is not just building systems, but  
-**making design decisions explainable** —  
+My strength is not just building systems, but
+**making design decisions explainable** —
 from requirements and constraints to trade-offs.
 
 AWSを中心に、
@@ -26,7 +27,7 @@ AWSを中心に、
 - 検索・キャッシュ
 - MLOps / AI基盤
 
-を題材に、  
+を題材に、
 **「なぜこの設計なのか」を言語化できるエンジニア**です。
 
 - 実務：クラウドアーキテクチャ設計 / 技術選定 / インフラ構築 / 設計レビュー
@@ -51,30 +52,35 @@ AWSを中心に、
 ## 🧑‍💼 Professional Tech Stack / 実務で使用している技術
 
 ### Languages
+
 Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL
 
 ### Framework & Infrastructure
-- Backend: FastAPI / Django / Spring Framework / Echo / CakePHP
-- Frontend: Next.js / Vue.js / BootStrap / UIkit / Tailwind CSS / jQuery
-- AWS: Lambda / API Gateway / SQS / ECS / EC2 / EKS / WAF / CodeBuild / CodePipeline / CodeDeploy / RDS / S3 / ELB / VPC / IAM
-- Container & IaC: Docker / docker-compose / Terraform / Kubernetes / Minikube / GitHub Actions
-- Tooling: Poetry / Ruff / Snyk / VSCode / Git / GitHub / Composer / Maven / A5M2
+
+- Backend: FastAPI / Django / Pydantic / Celery / SQLAlchemy / Gunicorn / Uvicorn / Swagger / Spring Framework / Echo / CakePHP
+- Frontend: React / Next.js / Vue.js / BootStrap / UIkit / Tailwind CSS / jQuery / Storybook
+- AWS: Lambda / API Gateway / SQS / ECS / EC2 / EKS / WAF / CloudWatch / Secrets Manager / CloudFront / CodeBuild / CodePipeline / CodeDeploy / RDS / S3 / ELB / VPC / IAM
+- Container & IaC: Docker / docker-compose / Terraform / Kubernetes / Minikube / Helm / Skaffold / GitHub Actions
+- Tooling: Poetry / Ruff / pytest / Playwright / Snyk / VSCode / Git / GitHub / Composer / Maven / A5M2 / Cyberduck
 
 ### Data & AI
-- Databases: MySQL / MariaDB / DynamoDB / OracleDB / ChromaDB / SQLite3
+
+- Databases: MySQL / MariaDB / PostgreSQL/ DynamoDB / OracleDB / Redis / ChromaDB / SQLite3
 - LLM / RAG: Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB
 - OCR: Azure OCR / ndlocr（CUDA/GPU）
 
 ### Architecture & Practices
-+ Serverless architecture (AWS Lambda, API Gateway) and event-driven design (Amazon SQS)
-+ Microservices architecture and Kubernetes operations (EKS, Minikube)
-+ CI/CD pipelines (CodePipeline, CodeBuild, CodeDeploy) and infrastructure as code (Terraform)
-+ Observability-driven design (monitoring/alerting, log collection and analysis)
-+ Resilience engineering (error handling, retry strategies)
-+ Engineering excellence (design guidelines, code reviews, testing, standardization)
-+ Security and governance (Snyk, data governance controls)
-+ Mobile optimization (iPhone compatibility, responsive UI)
-+ Retrieval-augmented generation (RAG)
+
+- Serverless architecture (AWS Lambda, API Gateway) and event-driven design (Amazon SQS)
+- Microservices architecture and Kubernetes operations (EKS, Minikube)
+- CI/CD pipelines (CodePipeline, CodeBuild, CodeDeploy) and infrastructure as code (Terraform)
+- Observability-driven design (monitoring/alerting, log collection and analysis)
+- Resilience engineering (error handling, retry strategies)
+- Engineering excellence (design guidelines, code reviews, testing, standardization)
+- Security and governance (Snyk, data governance controls)
+- Mobile optimization (iPhone compatibility, responsive UI)
+- Retrieval-augmented generation (RAG)
+
 ---
 
 ## 🔍 Design & Code Review Experience / 設計・レビュー経験
@@ -85,6 +91,7 @@ Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL
   FE/BE 間の設計齟齬を事前に検出・修正
 
 **Review Focus**
+
 - 命名・責務分離・不要コードの排除
 - React / TypeScript のベストプラクティス
 - 非推奨API（例: React.FC）の排除
@@ -102,6 +109,7 @@ Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL
 ことで理解しています。
 
 ### Topics
+
 - URL短縮サービス設計（ID生成・スケーラビリティ）
 - 分散ID生成（Snowflake / Ticket Server）
 - PostgreSQL性能検証（UUIDv7 / AIO）
@@ -110,7 +118,7 @@ Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL
 - Sagaパターンによる分散トランザクション
 - 強化学習 × AWS × MLOps基盤設計
 
-👉 Representative Repo  
+👉 Representative Repo
 https://github.com/sugiyama404/practice_infra_arch
 
 ---
@@ -127,6 +135,7 @@ https://github.com/sugiyama404/practice_infra_arch
   - 可観測性・レジリエンス・学習〜運用設計
 - **Staff Engineer**
 - 複数チーム・複数プロダクトを横断し、将来拡張・運用・組織スケールを前提とした技術的意思決定を行い、設計方針を言語化して実装まで責任を持てる
+
 ---
 
 ## ✍️ Technical Writing
@@ -149,5 +158,5 @@ https://github.com/sugiyama404/practice_infra_arch
 
 ---
 
-💡 *Good architecture is not about being clever.  
-It’s about being explainable.*
+💡 _Good architecture is not about being clever.
+It’s about being explainable._
