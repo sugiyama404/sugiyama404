@@ -57,11 +57,11 @@ Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL
 
 ### Framework & Infrastructure
 
-- Backend: FastAPI / Django / Pydantic / Celery / SQLAlchemy / Gunicorn / Uvicorn / Swagger / Spring Framework / Echo / CakePHP
+- Backend: FastAPI / Django / Spring Framework / Echo / CakePHP
 - Frontend: React / Next.js / Vue.js / BootStrap / UIkit / Tailwind CSS / jQuery / Storybook
 - AWS: Lambda / API Gateway / SQS / ECS / EC2 / EKS / WAF / CloudWatch / Secrets Manager / CloudFront / CodeBuild / CodePipeline / CodeDeploy / RDS / S3 / ELB / VPC / IAM
 - Container & IaC: Docker / docker-compose / Terraform / Kubernetes / Minikube / Helm / Skaffold / GitHub Actions
-- Tooling: Poetry / Ruff / pytest / Playwright / Snyk / VSCode / Git / GitHub / Composer / Maven / A5M2 / Cyberduck
+- Tooling: Poetry / Ruff / pytest / Playwright / Snyk / VSCode / Git / GitHub / Composer / Maven / A5M2 / Cyberduck / Pydantic / SQLAlchemy / Gunicorn / Uvicorn / Swagger / Celery
 
 ### Data & AI
 
