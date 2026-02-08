@@ -69,7 +69,7 @@ Lambda / API Gateway / SQS / ECS / EC2 / EKS / WAF / CloudWatch / Secrets Manage
 
 ### SaaS / PaaS
 
-Git / GitHub / GitHub Actions
+GitHub / GitHub Actions / Jira / Confluence / Sentry
 
 ### Others (Container / IaC / Tooling)
 
