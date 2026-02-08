@@ -55,19 +55,29 @@ AWSを中心に、
 
 Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL
 
-### Framework & Infrastructure
+### Frameworks & Libraries
 
-- Backend: FastAPI / Django / Spring Framework / Echo / CakePHP
-- Frontend: React / Next.js / Vue.js / BootStrap / UIkit / Tailwind CSS / jQuery / Storybook
-- AWS: Lambda / API Gateway / SQS / ECS / EC2 / EKS / WAF / CloudWatch / Secrets Manager / CloudFront / CodeBuild / CodePipeline / CodeDeploy / RDS / S3 / ELB / VPC / IAM
-- Container & IaC: Docker / docker-compose / Terraform / Kubernetes / Minikube / Helm / Skaffold / GitHub Actions
-- Tooling: Poetry / Ruff / pytest / Playwright / Snyk / VSCode / Git / GitHub / Composer / Maven / A5M2 / Cyberduck / Pydantic / SQLAlchemy / Gunicorn / Uvicorn / Swagger / Celery
+FastAPI / Django / Pydantic / Celery / SQLAlchemy / Gunicorn / Uvicorn / Swagger / Spring Framework / Echo / CakePHP / React / Ant Design (antd) / Next.js / Vue.js / BootStrap / UIkit / Tailwind CSS / jQuery / Storybook
 
-### Data & AI
+### RDB / NoSQL
 
-- Databases: MySQL / MariaDB / PostgreSQL/ DynamoDB / OracleDB / Redis / ChromaDB / SQLite3
-- LLM / RAG: Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB
-- OCR: Azure OCR / ndlocr（CUDA/GPU）
+MySQL / MariaDB / PostgreSQL/ DynamoDB / OracleDB / Redis / ChromaDB / SQLite3
+
+### Cloud (AWS)
+
+Lambda / API Gateway / SQS / ECS / EC2 / EKS / WAF / CloudWatch / Secrets Manager / CloudFront / CodeBuild / CodePipeline / CodeDeploy / RDS / S3 / ELB / VPC / IAM
+
+### SaaS / PaaS
+
+Git / GitHub / GitHub Actions
+
+### Others (Container / IaC / Tooling)
+
+Docker / docker-compose / Terraform / Kubernetes / Minikube / Helm / Skaffold / Poetry / Ruff / pytest / Playwright / Snyk / VSCode / Composer / Maven / A5M2 / Cyberduck / Eclipse
+
+### AI / LLM
+
+Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB / Azure OCR / ndlocr（CUDA/GPU）
 
 ### Architecture & Practices
 
