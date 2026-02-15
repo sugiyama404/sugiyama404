@@ -81,6 +81,9 @@ Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB / Azure OCR / ndlocr
 
 ### Architecture & Practices
 
+- Event-driven architecture (EDA)
+- Domain-Driven Design (DDD)
+- Clean Architecture
 - Serverless architecture (AWS Lambda, API Gateway) and event-driven design (Amazon SQS)
 - Microservices architecture and Kubernetes operations (EKS, Minikube)
 - CI/CD pipelines (CodePipeline, CodeBuild, CodeDeploy) and infrastructure as code (Terraform)
@@ -95,18 +98,16 @@ Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB / Azure OCR / ndlocr
 
 ## 🔍 Design & Code Review Experience / 設計・レビュー経験
 
-- **フロントエンド主軸の設計書・PRレビュアー**を担当
-- 一日平均 **3本以上** の設計書・Pull Requestをレビュー
-- FE実装レビューに加え、**バックエンド設計書もレビュー**し、
-  FE/BE 間の設計齟齬を事前に検出・修正
+- **FE / BE 両面での設計書・コードレビュアー**として従事
+- 100名規模のプロジェクトからAI基盤開発まで、**一日平均 3本以上** の設計書・Pull Requestをレビュー
+- 単なる「コードの修正指示」に留まらず、**設計思想や判断基準（Design Intent）を共有**し、チーム全体の技術水準を底上げするレビューを実践
 
 **Review Focus**
 
-- 命名・責務分離・不要コードの排除
-- React / TypeScript のベストプラクティス
-- 非推奨API（例: React.FC）の排除
-- 設計書が「そのまま実装できる」粒度になっているか
-- API / データ構造 / 実装責務の整合性
+- **Frontend**: React / TypeScript のベストプラクティス、状態管理、コンポーネントの責務分離
+- **Backend**: クリーンアーキテクチャに基づく責務分離、API設計（冪等性・エラーハンドリング）、DBアクセス最適化
+- **Architecture**: FE/BE 間の整合性、非同期処理の信頼性、スケーラビリティ、運用監視の容易性
+- **Quality**: 設計書が「実装の拠り所」として機能する粒度になっているか、保守性・拡張性が担保されているか
 
 ---
 
