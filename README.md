@@ -86,7 +86,7 @@ Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB / Azure OCR / ndlocr
 - Clean Architecture
 - Serverless architecture (AWS Lambda, API Gateway) and event-driven design (Amazon SQS)
 - Microservices architecture and Kubernetes operations (EKS, Minikube)
-- CI/CD pipelines (CodePipeline, CodeBuild, CodeDeploy) and infrastructure as code (Terraform)
+- CI/CD pipelines (GitHub Actions, CodePipeline, CodeBuild, CodeDeploy) with automated testing, security scanning, and infrastructure as code (Terraform)
 - Observability-driven design (monitoring/alerting, log collection and analysis)
 - Resilience engineering (error handling, retry strategies)
 - Engineering excellence (design guidelines, code reviews, testing, standardization)
