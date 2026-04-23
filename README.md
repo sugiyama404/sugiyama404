@@ -63,7 +63,7 @@ FastAPI / Django / Pydantic / Celery / SQLAlchemy / Gunicorn / Uvicorn / Swagger
 
 MySQL / MariaDB / PostgreSQL/ DynamoDB / OracleDB / Redis / ChromaDB / SQLite3
 
-### Cloud(AWS)
+### Cloud (AWS)
 
 Lambda / API Gateway / SQS / SNS / ECS / EC2 / WAF / CloudWatch / Secrets Manager / CloudFront / CodeBuild / CodePipeline / CodeDeploy / RDS / S3 / ELB / VPC / IAM / CloudFormation
 
