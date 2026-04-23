@@ -65,15 +65,15 @@ MySQL / MariaDB / PostgreSQL/ DynamoDB / OracleDB / Redis / ChromaDB / SQLite3
 
 ### Cloud (AWS)
 
-Lambda / API Gateway / SQS / ECS / EC2 / EKS / WAF / CloudWatch / Secrets Manager / CloudFront / CodeBuild / CodePipeline / CodeDeploy / RDS / S3 / ELB / VPC / IAM
+Lambda / API Gateway / SQS / SNS / ECS / EC2 / WAF / CloudWatch / Secrets Manager / CloudFront / CodeBuild / CodePipeline / CodeDeploy / RDS / S3 / ELB / VPC / IAM / CloudFormation
 
 ### SaaS / PaaS
 
-GitHub / GitHub Actions / Jira / Confluence / Sentry
+GitHub / GitHub Actions / GitHub Project / Jira / Confluence / Sentry / Jenkins / Redmine
 
 ### Others (Container / IaC / Tooling)
 
-Docker / docker-compose / Terraform / Kubernetes / Minikube / Helm / Skaffold / Poetry / Ruff / pytest / Playwright / Snyk / VSCode / Composer / Maven / A5M2 / Cyberduck / Eclipse
+Docker / docker-compose / Terraform / AWS CDK / Kubernetes / Minikube / Helm / Skaffold / Poetry / Ruff / pytest / Playwright / Snyk / VSCode / Composer / Maven / A5M2 / Cyberduck / Eclipse / Mikefile
 
 ### AI / LLM
 
