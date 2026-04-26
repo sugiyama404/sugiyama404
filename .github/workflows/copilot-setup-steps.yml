@@ -41,14 +41,14 @@ jobs:
           PYENV_ROOT="$HOME/.pyenv"
           git clone --depth 1 https://github.com/pyenv/pyenv.git "$PYENV_ROOT"
           sudo ln -sf "$PYENV_ROOT/bin/pyenv" /usr/local/bin/pyenv
+          echo "PYENV_ROOT=$PYENV_ROOT" >> "$GITHUB_ENV"
           {
-            echo "PYENV_ROOT=$PYENV_ROOT"
             echo "$PYENV_ROOT/bin"
             echo "$PYENV_ROOT/shims"
           } >> "$GITHUB_PATH"
           sudo tee /etc/profile.d/copilot-pyenv.sh >/dev/null <<EOF
           export PYENV_ROOT="$PYENV_ROOT"
-          export PATH="\$PYENV_ROOT/bin:\$PYENV_ROOT/shims:\$PATH"
+          export PATH="$PYENV_ROOT/bin:$PYENV_ROOT/shims:\$PATH"
           EOF
           pyenv --version
 
