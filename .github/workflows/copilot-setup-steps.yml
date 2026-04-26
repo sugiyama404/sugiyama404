@@ -1,0 +1,63 @@
+name: Copilot Setup Steps
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/copilot-setup-steps.yml
+  pull_request:
+    paths:
+      - .github/workflows/copilot-setup-steps.yml
+
+jobs:
+  copilot-setup-steps:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+
+      - name: Install pyenv build dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            build-essential \
+            curl \
+            git \
+            libbz2-dev \
+            libffi-dev \
+            liblzma-dev \
+            libncursesw5-dev \
+            libreadline-dev \
+            libsqlite3-dev \
+            libssl-dev \
+            tk-dev \
+            xz-utils \
+            zlib1g-dev
+
+      - name: Install pyenv
+        run: |
+          PYENV_ROOT="$HOME/.pyenv"
+          git clone --depth 1 https://github.com/pyenv/pyenv.git "$PYENV_ROOT"
+          sudo ln -sf "$PYENV_ROOT/bin/pyenv" /usr/local/bin/pyenv
+          {
+            echo "PYENV_ROOT=$PYENV_ROOT"
+            echo "$PYENV_ROOT/bin"
+            echo "$PYENV_ROOT/shims"
+          } >> "$GITHUB_PATH"
+          sudo tee /etc/profile.d/copilot-pyenv.sh >/dev/null <<EOF
+          export PYENV_ROOT="$PYENV_ROOT"
+          export PATH="\$PYENV_ROOT/bin:\$PYENV_ROOT/shims:\$PATH"
+          EOF
+          pyenv --version
+
+      - name: Install uv
+        run: |
+          UV_INSTALL_DIR="$HOME/.local/bin"
+          mkdir -p "$UV_INSTALL_DIR"
+          curl -LsSf https://astral.sh/uv/install.sh | env UV_INSTALL_DIR="$UV_INSTALL_DIR" sh
+          sudo ln -sf "$UV_INSTALL_DIR/uv" /usr/local/bin/uv
+          sudo ln -sf "$UV_INSTALL_DIR/uvx" /usr/local/bin/uvx
+          echo "$UV_INSTALL_DIR" >> "$GITHUB_PATH"
+          uv --version
