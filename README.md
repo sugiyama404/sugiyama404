@@ -73,7 +73,7 @@ GitHub / GitHub Actions / GitHub Project / Jira / Confluence / Sentry / Jenkins 
 
 ### Others (Container / IaC / Tooling)
 
-Docker / docker-compose / Terraform / AWS CDK / Kubernetes / Minikube / Helm / Skaffold / pyenv / uv / Poetry / Ruff / pytest / Playwright / Snyk / VSCode / Composer / Maven / A5M2 / Cyberduck / Eclipse / Mikefile / Fail2ban / Logwatch
+Docker / docker-compose / Terraform / AWS CDK / Kubernetes / Minikube / Helm / Skaffold / pyenv / uv / Poetry / Ruff / pytest / Playwright / Snyk / VSCode / Composer / Maven / A5M2 / Cyberduck / Eclipse / Mikefile / Fail2ban / Logwatch / Microsoft Teams Workflow / XServer / Apache / Tomcat
 
 ### AI / LLM
 
@@ -93,6 +93,7 @@ Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB / Azure OCR / ndlocr
 - Security and governance (Snyk, data governance controls)
 - Mobile optimization (iPhone compatibility, responsive UI)
 - Retrieval-augmented generation (RAG)
+- Designed an event-driven SecOps and ChatOps pipeline connecting on-premise hosting infrastructure with AWS serverless services
 
 ---
 
