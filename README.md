@@ -65,7 +65,7 @@ MySQL / MariaDB / PostgreSQL/ DynamoDB / OracleDB / Redis / ChromaDB / SQLite3
 
 ### Cloud (AWS / GCP)
 
-Lambda / API Gateway / SQS / SNS / ECS / EC2 / WAF / CloudWatch / Secrets Manager / CloudFront / CodeBuild / CodePipeline / CodeDeploy / RDS / S3 / ELB / VPC / IAM / CloudFormation / GCP (Compute Engine)
+Lambda / API Gateway / SQS / SNS / ECS / EC2 / WAF / CloudWatch / Secrets Manager / CloudFront / CodeBuild / CodePipeline / CodeDeploy / RDS / S3 / ELB / VPC / IAM / CloudFormation / GCP / Compute Engine
 
 ### SaaS / PaaS
 
@@ -98,7 +98,7 @@ Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB / Azure OCR / ndlocr
 - Mobile optimization (iPhone compatibility, responsive UI)
 - Retrieval-augmented generation (RAG)
 - Event-driven SecOps / ChatOps pipeline (on-premise hosting to AWS serverless integration)
-- SecOps/ChatOps architecture: Xserver → Fail2Ban・Logwatch → AWS API Gateway → Lambda → SNS → Microsoft Teams Workflow
+- **SecOps/ChatOps architecture**: Xserver → Fail2Ban / Logwatch → AWS API Gateway → Lambda → SNS → Microsoft Teams Workflow
 - Automated malicious access detection and IP banning with Fail2Ban
 - Event-driven alert processing with AWS Lambda and real-time notifications via Microsoft Teams Workflow
 - Lightweight SecOps/ChatOps operational design for infrastructure automation
