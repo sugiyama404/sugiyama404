@@ -93,7 +93,7 @@ Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB / Azure OCR / ndlocr
 - Security and governance (Snyk, data governance controls)
 - Mobile optimization (iPhone compatibility, responsive UI)
 - Retrieval-augmented generation (RAG)
-- Designed an event-driven SecOps and ChatOps pipeline connecting on-premise hosting infrastructure with AWS serverless services
+- Event-driven SecOps and ChatOps pipeline design connecting on-premise hosting infrastructure with AWS serverless services
 
 ---
 
