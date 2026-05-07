@@ -73,7 +73,7 @@ GitHub / GitHub Actions / GitHub Project / Jira / Confluence / Sentry / Jenkins 
 
 ### Others (Container / IaC / Tooling)
 
-Docker / docker-compose / Terraform / AWS CDK / Kubernetes / Minikube / Helm / Skaffold / pyenv / uv / Poetry / Ruff / pytest / Playwright / Snyk / VSCode / Composer / Maven / A5M2 / Cyberduck / Eclipse / Mikefile
+Docker / docker-compose / Terraform / AWS CDK / Kubernetes / Minikube / Helm / Skaffold / pyenv / uv / Poetry / Ruff / pytest / Playwright / Snyk / VSCode / Composer / Maven / A5M2 / Cyberduck / Eclipse / Mikefile / Fail2ban / Logwatch
 
 ### AI / LLM
 
