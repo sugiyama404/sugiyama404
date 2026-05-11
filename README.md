@@ -102,6 +102,7 @@ Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB / Azure OCR / ndlocr
 - Mobile optimization (iPhone compatibility, responsive UI)
 - Retrieval-augmented generation (RAG)
 - Event-driven SecOps / ChatOps pipeline (on-premise hosting to AWS serverless integration)
+- Designed and built a reproducible local serverless development environment including AWS Lambda integration for architecture validation and rapid iteration
 
 ---
 
