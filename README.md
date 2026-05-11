@@ -57,7 +57,7 @@ Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL
 
 ### Frameworks & Libraries
 
-FastAPI / Flask / Django / Pydantic / Celery / SQLAlchemy / Gunicorn / Uvicorn / Swagger / Spring Framework / Echo / CakePHP / React / Ant Design (antd) / Next.js / Vue.js / BootStrap / UIkit / Tailwind C[...]
+FastAPI / Flask / Django / Pydantic / Celery / SQLAlchemy / Gunicorn / Uvicorn / Swagger / Spring Framework / Echo / CakePHP / React / Ant Design (antd) / Next.js / Vue.js / BootStrap / UIkit / Tailwind CSS / jQuery / Storybook / Flask
 
 ### RDB / NoSQL
 
