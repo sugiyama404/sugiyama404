@@ -77,7 +77,7 @@ GitHub / GitHub Actions / GitHub Project / Jira / Confluence / Sentry / Jenkins 
 
 ### Others (Container / IaC / Tooling)
 
-Docker / docker-compose / Terraform / AWS CDK / Kubernetes / Minikube / Helm / Skaffold / pyenv / uv / Poetry / Ruff / pytest / Playwright / Snyk / VSCode / Composer / Maven / A5M2 / Cyberduck / E[...]
+Docker / docker-compose / Terraform / AWS CDK / Kubernetes / Minikube / Helm / Skaffold / pyenv / uv / Poetry / Ruff / pytest / Playwright / Snyk / VSCode / Composer / Maven / A5M2 / Cyberduck / Eclipse / Mikefile / Apache / Tomcat
 
 ### Security Tools
 
@@ -154,7 +154,7 @@ https://github.com/sugiyama404/practice_infra_arch
 - **SRE / MLOps Engineer**
   - 可観測性・レジリエンス・学習〜運用設計
 - **Staff Engineer**
-- 複数チーム・複数プロダクトを横断し、将来拡張・運用・組織スケールを前提とした技術的意思決定を行い、設計方針を言語化して実装まで責
+- 複数チーム・複数プロダクトを横断し、将来拡張・運用・組織スケールを前提とした技術的意思決定を行い、設計方針を言語化して実装まで責任を持てる
 
 ---
 
