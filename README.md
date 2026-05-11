@@ -30,7 +30,7 @@ AWSを中心に、
 を題材に、
 **「なぜこの設計なのか」を言語化できるエンジニア**です。
 
-- 実務：クラウドアーキテクチャ設計 / 技術選定 / インフラ構築 / 設計レビュー
+- 実務：クラウドアーキテクチャ設�� / 技術選定 / インフラ構築 / 設計レビュー
 - 個人：設計検証・性能比較・アーキテクチャ分析を GitHub / Qiita で継続発信
 
 ---
@@ -57,7 +57,7 @@ Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL
 
 ### Frameworks & Libraries
 
-FastAPI / Django / Pydantic / Celery / SQLAlchemy / Gunicorn / Uvicorn / Swagger / Spring Framework / Echo / CakePHP / React / Ant Design (antd) / Next.js / Vue.js / BootStrap / UIkit / Tailwind CSS / jQuery / Storybook
+FastAPI / Flask / Django / Pydantic / Celery / SQLAlchemy / Gunicorn / Uvicorn / Swagger / Spring Framework / Echo / CakePHP / React / Ant Design (antd) / Next.js / Vue.js / BootStrap / UIkit / Tailwind C[...]
 
 ### RDB / NoSQL
 
@@ -77,11 +77,11 @@ GitHub / GitHub Actions / GitHub Project / Jira / Confluence / Sentry / Jenkins 
 
 ### Others (Container / IaC / Tooling)
 
-Docker / docker-compose / Terraform / AWS CDK / Kubernetes / Minikube / Helm / Skaffold / pyenv / uv / Poetry / Ruff / pytest / Playwright / Snyk / VSCode / Composer / Maven / A5M2 / Cyberduck / Eclipse / Mikefile / Apache / Tomcat
+Docker / docker-compose / Terraform / AWS CDK / Kubernetes / Minikube / Helm / Skaffold / pyenv / uv / Poetry / Ruff / pytest / Playwright / Snyk / VSCode / Composer / Maven / A5M2 / Cyberduck / E[...]
 
 ### Security Tools
 
-Fail2ban / Logwatch
+Fail2ban / Logwatch / git-secrets
 
 ### AI / LLM
 
@@ -154,7 +154,7 @@ https://github.com/sugiyama404/practice_infra_arch
 - **SRE / MLOps Engineer**
   - 可観測性・レジリエンス・学習〜運用設計
 - **Staff Engineer**
-- 複数チーム・複数プロダクトを横断し、将来拡張・運用・組織スケールを前提とした技術的意思決定を行い、設計方針を言語化して実装まで責任を持てる
+- 複数チーム・複数プロダクトを横断し、将来拡張・運用・組織スケールを前提とした技術的意思決定を行い、設計方針を言語化して実装まで責[...]
 
 ---
 
@@ -179,4 +179,4 @@ https://github.com/sugiyama404/practice_infra_arch
 ---
 
 💡 _Good architecture is not about being clever.
-It’s about being explainable._
+It's about being explainable._
