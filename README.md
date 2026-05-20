@@ -81,7 +81,7 @@ Docker / docker-compose / Terraform / AWS CDK / Kubernetes / Minikube / Helm / S
 
 ### Security Tools
 
-Fail2ban / Logwatch / git-secrets
+Fail2ban / Logwatch / git-secrets / Gitleaks / OWASP ZAP
 
 ### AI / LLM
 
@@ -89,20 +89,20 @@ Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB / Azure OCR / ndlocr
 
 ### Architecture & Practices
 
+- Observability-driven design (monitoring/alerting, log collection and analysis)
+- Resilience engineering (error handling, retry strategies)
+- Security and governance (DevSecOps integration with Gitleaks / Snyk / OWASP ZAP for static & dynamic analysis, data governance controls)
+- CI/CD pipelines (GitHub Actions, CodePipeline, CodeBuild, CodeDeploy) with automated testing, security scanning, and infrastructure as code (Terraform)
+- Engineering excellence (design guidelines, code reviews, testing, standardization)
+- Designed and built a reproducible local serverless development environment including AWS Lambda integration for architecture validation and rapid iteration
+- Event-driven SecOps / ChatOps pipeline (on-premise hosting to AWS serverless integration)
+- Serverless architecture (AWS Lambda, API Gateway) and event-driven design (Amazon SQS)
+- Microservices architecture and Kubernetes operations (EKS, Minikube)
 - Event-driven architecture (EDA)
 - Domain-Driven Design (DDD)
 - Clean Architecture
-- Serverless architecture (AWS Lambda, API Gateway) and event-driven design (Amazon SQS)
-- Microservices architecture and Kubernetes operations (EKS, Minikube)
-- CI/CD pipelines (GitHub Actions, CodePipeline, CodeBuild, CodeDeploy) with automated testing, security scanning, and infrastructure as code (Terraform)
-- Observability-driven design (monitoring/alerting, log collection and analysis)
-- Resilience engineering (error handling, retry strategies)
-- Engineering excellence (design guidelines, code reviews, testing, standardization)
-- Security and governance (Snyk, data governance controls)
-- Mobile optimization (iPhone compatibility, responsive UI)
 - Retrieval-augmented generation (RAG)
-- Event-driven SecOps / ChatOps pipeline (on-premise hosting to AWS serverless integration)
-- Designed and built a reproducible local serverless development environment including AWS Lambda integration for architecture validation and rapid iteration
+- Mobile optimization (iPhone compatibility, responsive UI)
 
 ---
 
