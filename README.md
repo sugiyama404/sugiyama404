@@ -91,7 +91,7 @@ Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB / Azure OCR / ndlocr
 
 - Observability-driven design (monitoring/alerting, log collection and analysis)
 - Resilience engineering (error handling, retry strategies)
-- Security and governance (DevSecOps integration with Gitleaks / Snyk / OWASP ZAP for static & dynamic analysis, data governance controls)
+- Security and governance (DevSecOps integration with Gitleaks / OWASP ZAP for static & dynamic analysis, data governance controls)
 - CI/CD pipelines (GitHub Actions, CodePipeline, CodeBuild, CodeDeploy) with automated testing, security scanning, and infrastructure as code (Terraform)
 - Engineering excellence (design guidelines, code reviews, testing, standardization)
 - Designed and built a reproducible local serverless development environment including AWS Lambda integration for architecture validation and rapid iteration
