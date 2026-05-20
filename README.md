@@ -61,7 +61,7 @@ FastAPI / Flask / Django / Pydantic / Celery / SQLAlchemy / Gunicorn / Uvicorn /
 
 ### RDB / NoSQL
 
-MySQL / MariaDB / PostgreSQL/ DynamoDB / OracleDB / Redis / ChromaDB / SQLite3
+MySQL / MariaDB / PostgreSQL / DynamoDB / OracleDB / Redis / ChromaDB / SQLite3
 
 ### Cloud (AWS)
 
