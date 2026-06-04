@@ -73,7 +73,7 @@ Compute Engine
 
 ### SaaS / PaaS
 
-GitHub / GitHub Actions / GitHub Project / Jira / Confluence / Sentry / Jenkins / Redmine / Microsoft Teams / Chatwork / Xserver / Slack
+GitHub / GitHub Actions / GitHub Projects / Jira / Confluence / Sentry / Jenkins / Redmine / Microsoft Teams / Chatwork / Xserver / Slack
 
 ### Others (Container / IaC / Tooling)
 
