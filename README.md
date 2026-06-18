@@ -81,7 +81,7 @@ Docker / docker-compose / Terraform / AWS CDK / Kubernetes / Minikube / Helm / S
 
 ### Security Tools
 
-Fail2ban / Logwatch / git-secrets / Gitleaks / OWASP ZAP
+Kali Linux / Burp Suite / Metasploitable / Hydra / Nmap / Nikto / SQLMap / OWASP ZAP / Fail2ban / Logwatch / git-secrets / Gitleaks
 
 ### AI / LLM
 
@@ -92,6 +92,7 @@ Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB / Azure OCR / ndlocr
 - Designed and introduced organization-wide DevSecOps practices using GitHub Projects, Issues, Pull Requests, Dependabot, CI pipelines, and automated vulnerability scanning with GitHub Actions, and delivered internal workshops to promote adoption.
 - Observability-driven design (monitoring/alerting, log collection and analysis)
 - Resilience engineering (error handling, retry strategies)
+- Security assessment and penetration testing
 - Security and governance (DevSecOps integration with Gitleaks / OWASP ZAP for static & dynamic analysis, data governance controls)
 - CI/CD pipelines (GitHub Actions, CodePipeline, CodeBuild, CodeDeploy) with automated testing, security scanning, and infrastructure as code (Terraform)
 - Engineering excellence (design guidelines, code reviews, testing, standardization)
