@@ -89,6 +89,7 @@ Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB / Azure OCR / ndlocr
 
 ### Architecture & Practices
 
+- Architected an organization-wide AWS platform using a layered approach (Stack → Pattern → Construct), standardizing network, entry, compute, and data domains while improving reusability and governance
 - Designed and introduced organization-wide DevSecOps practices using GitHub Projects, Issues, Pull Requests, Dependabot, CI pipelines, and automated vulnerability scanning with GitHub Actions, and delivered internal workshops to promote adoption.
 - Observability-driven design (monitoring/alerting, log collection and analysis)
 - Resilience engineering (error handling, retry strategies)
