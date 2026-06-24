@@ -26,19 +26,20 @@ My core value lies in **Technical Decision Making and Explainable Architecture**
 
 ## 🧭 Engineering Focus / 得意領域
 
-* **Cloud & Platform Architecture**
+#### Cloud & Platform Architecture
+
 * Serverless / Event-driven / Microservices を用いた進化型アーキテクチャ設計
 * コスト最適化、高可用性、運用効率を両立するマルチテナント基盤の意思決定
 
-* **Distributed Systems & Reliability**
+#### Distributed Systems & Reliability
 * 高並行API設計、非同期分散処理、キャッシュ戦略、および分散トランザクションの制御
 * 長期的な保守性と信頼性（Reliability）を担保する、ドメイン駆動設計（DDD）の実践
 
-* **AI Platform & MLOps**
+#### AI Platform & MLOps
 * RAG（検索拡張生成）構成、大規模OCR、強化学習基盤のコンポーネント設計
 * 実験フェーズからプロダクション（推論・運用・監視）を見据えたライフサイクル設計
 
-* **Technical Leadership & Design Reviews**
+#### Technical Leadership & Design Reviews
 * 設計インテント（意図）の言語化と共有による、アーキテクチャの整合性（Consistency）維持
 * 組織横断的なアライメントの締結と、中長期的な保守性を高めるエンジニアリング標準の確立
 
