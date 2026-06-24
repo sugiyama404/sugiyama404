@@ -157,27 +157,27 @@ I architect and deliver robust, multi-tenant cloud ecosystems that treat the **P
 
 ## 🧑‍💻 How I Can Be Evaluated / 採用ロール別の見え方
 
-* **Cloud Architect**
+#### Cloud Architect
 * ビジネス要件と技術的制約を整理し、高可用・低コストなクラウドトポロジーを「説明可能な状態」でゼロから設計できる
 * 技術選定において、機能・非機能・将来的な拡張性のトレードオフ分析を主導できる
 
 
-* **Platform Engineer**
+#### Platform Engineer
 * AWS CDKを活用したインフラの抽象化（Construct/Pattern/Stack）を行い、全社で再利用可能な共通プラットフォームを構築できる
 * Secure by Defaultなインフラ設計により、開発ベロシティの向上と組織ガバナンスを同時に達成できる
 
 
-* **Staff Engineer**
+#### Staff Engineer
 * 複数プロダクト・複数チームを跨ぐ共通技術課題を特定し、組織横断のアライメントを形成して技術的意思決定を推進できる
 * 単発のコードレビューではなく「Design Intent（設計意図）の共有」や「エンジニアリング標準の確立」を通じて、組織の技術水準を一底上げできる
 
 
-* **SRE / MLOps Engineer**
+#### SRE / MLOps Engineer
 * 可観測性（Observability）駆動のシステム設計、およびカオスエンジニアリングを見据えたレジリエンス設計を導入できる
 * RAGや強化学習などのAIプロダクトにおいて、モデルの特性に応じた最適なインフラ（計算リソース、データパイプライン）を設計・運用できる
 
 
-* **Backend Engineer**
+#### Backend Engineer
 * ドメイン駆動設計（DDD）やクリーンアーキテクチャを実務レベルで適用し、高負荷に耐えうる高パフォーマンスなAPI・非同期分散システムを構築できる
 
 
