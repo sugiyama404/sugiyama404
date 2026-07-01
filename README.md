@@ -63,7 +63,7 @@ MySQL / MariaDB / PostgreSQL / DynamoDB / OracleDB / Redis / ChromaDB / SQLite3
 
 ### Cloud (AWS)
 
-Lambda / API Gateway / SQS / SNS / ECS / EC2 / WAF / CloudWatch / Secrets Manager / CloudFront / CodeBuild / CodePipeline / CodeDeploy / RDS / S3 / ELB / VPC / IAM / CloudFormation / cognito
+Lambda / API Gateway / SQS / SNS / ECS / EC2 / WAF / CloudWatch / Secrets Manager / CloudFront / CodeBuild / CodePipeline / CodeDeploy / RDS / S3 / ELB / VPC / IAM / CloudFormation / Cognito
 
 ### Cloud (GCP)
 
