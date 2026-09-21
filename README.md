@@ -71,7 +71,7 @@ Compute Engine
 
 ### SaaS / PaaS
 
-GitHub / GitHub Actions / GitHub Projects / Jira / Confluence / Sentry / Jenkins / Redmine / Microsoft Teams / Chatwork / Xserver / Slack
+GitHub / GitHub Actions / GitHub Projects / Jira / Confluence / Sentry / Jenkins / Redmine / Microsoft Teams / Chatwork / Xserver / Slack / Microsoft Power Platform (Power Apps, Power Automate, Power BI) / SharePoint Lists
 
 ### Others (Container / IaC / Tooling)
 
@@ -97,6 +97,8 @@ Azure OpenAI / Gemini for Enterprise / LangChain / ChromaDB / Azure OCR / ndlocr
 * Engineering excellence (design guidelines, code reviews, testing, standardization)
 * Designed and built a reproducible local serverless development environment including AWS Lambda integration for architecture validation and rapid iteration
 * Event-driven SecOps / ChatOps pipeline (on-premise hosting to AWS serverless integration)
+* Business process re-engineering and business systemization using Microsoft Power Platform, including AS-IS analysis, TO-BE process design, data modeling, and MVP delivery
+* Organizational learning pipeline design using structured interviews, implicit knowledge capture, and Human-AI Collaboration to convert recurring field issues into reusable guidelines and organizational knowledge assets
 * Serverless architecture (AWS Lambda, API Gateway) and event-driven design (Amazon SQS)
 * Microservices architecture and Kubernetes operations (EKS, Minikube)
 * Event-driven architecture (EDA)
@@ -160,6 +162,11 @@ I architect and deliver robust, multi-tenant cloud ecosystems that treat the **P
 #### Cloud Architect
 * ビジネス要件と技術的制約を整理し、高可用・低コストなクラウドトポロジーを「説明可能な状態」でゼロから設計できる
 * 技術選定において、機能・非機能・将来的な拡張性のトレードオフ分析を主導できる
+
+
+#### Solution Architect
+* 顧客・事業課題を業務要件と技術要件へ分解し、既存プラットフォームを活用した現実的な業務システムの構想・設計を主導できる
+* AS-IS分析、TO-BE業務設計、データモデリング、MVP開発をつなぎ、要件変化を踏まえた段階的な導入ロードマップを策定できる
 
 
 #### Platform Engineer
