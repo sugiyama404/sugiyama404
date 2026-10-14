@@ -51,7 +51,7 @@ My core value lies in **Technical Decision Making and Explainable Architecture**
 
 ### Languages
 
-Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL
+Python / TypeScript / JavaScript / Go / Java / PHP / SQL / Bash / Batch / HCL / Power Fx
 
 ### Frameworks & Libraries
 
